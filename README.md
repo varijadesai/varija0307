@@ -1,2 +1,2 @@
 # varija0307
-first repository
+first repository for c
